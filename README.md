@@ -18,7 +18,7 @@ A Python tool to migrate ROM files from Anbernic stock OS to Knulli/Batocera OS.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/AnbernicToKnulliMigrator.git
+git clone https://github.com/MrMika96/AnbernicToKnulliMigrator.git
 cd AnbernicToKnulliMigrator
 ```
 
