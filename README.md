@@ -126,6 +126,7 @@ Anbernic folders are automatically mapped to Knulli/Batocera folders:
 ### Permission Denied
 
 **Windows:** Run as Administrator
+
 **Linux/macOS:** Use `sudo`
 ```bash
 sudo python3 rom_migrator.py
