@@ -57,13 +57,13 @@ python rom_migrator.py -s /path/to/anbernic/ROMS -d /path/to/knulli/roms
 
 ```bash
 # Interactive mode
-python main.py
+python rom_migrator.py
 
 # Quick copy
-python main.py -s D:/Anbernic/ROMS -d E:/storage/roms
+python rom_migrator.py -s D:/Anbernic/ROMS -d E:/storage/roms
 
 # Dry run to preview
-python main.py -s D:/Anbernic/ROMS -d E:/storage/roms --dry-run -v
+python rom_migrator.py -s D:/Anbernic/ROMS -d E:/storage/roms --dry-run -v
 ```
 
 ## Folder Mapping
